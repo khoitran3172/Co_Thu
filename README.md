@@ -5,9 +5,9 @@
 ### LƯU Ý: PHẢI SỬ DỤNG 3D BẢN URP ###
 ### LƯU Ý: PHẢI SỬ DỤNG 3D BẢN URP ###
 ### LƯU Ý: PHẢI SỬ DỤNG 3D BẢN URP ###
-### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) ###
-### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) ###
-### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) ###
+### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) 
+### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) 
+### CHỌN 'New Project để tạo sau đó chọn mục 3D(URP) 
 1. **Tải về:**
    - Tải về dự án từ [GitHub](https://github.com/khoitran3172/Co_Thu.git).
 
@@ -29,4 +29,4 @@
 
 
 Chú ý: Hãy đảm bảo rằng bạn đang sử dụng phiên bản URP 3D để có trải nghiệm tốt nhất.
-# LỖI : NẾU CÁC CON VẬT CHESS HAY BÀN CỜ BỊ MÀU TÍM THÌ LỖI NẰM Ở SETUP MATERIAL , VỚI TRƯỜNG HỢP NÀY HÃY TẠO MATERIAL MỚI GÁN LẠI CHO CHÚNG 
+#### LỖI : NẾU CÁC CON VẬT CHESS HAY BÀN CỜ BỊ MÀU TÍM THÌ LỖI NẰM Ở SETUP MATERIAL , VỚI TRƯỜNG HỢP NÀY HÃY TẠO MATERIAL MỚI GÁN LẠI CHO CHÚNG 
