@@ -1,4 +1,4 @@
-# CỜ THÚ MODEL
+# CỜ THÚ <MODEL>
 
 ## Cách Sử Dụng
 
